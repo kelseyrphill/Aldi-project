@@ -24,3 +24,11 @@ The project was as follows:
     14.	The system should be easy to use. 
 
 PLEASE NOTE: This program is not finished to the standards of the company, as we were told to get as much done in the time alotted. There are some features that are not fully functional. Much more could be finished and added to the program.
+
+To log in as an employee use:
+ID Number: 101301
+Password: Pass
+
+To log in as a manager use:
+ID Number: 101355
+Password: manager
