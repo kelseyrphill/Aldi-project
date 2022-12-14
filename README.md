@@ -1,4 +1,4 @@
-# Aldi-project
+# AldiProject
 This was a group project in my Aurora Univeristy Software Engineering Class for Aldi. I was given permission from my group members to uplaod the final program to my github, as the repo we used while working on the project was not mine. My group members were Raquel Gonzalas, Lizabeth Flores, and Brandon Molitor.
 
 The project was as follows:
