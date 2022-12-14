@@ -23,4 +23,4 @@ The project was as follows:
     13.	The system must respond quickly and store data in a database. 
     14.	The system should be easy to use. 
 
-PLEASE NOTE: This program is not finished to the standards of the company, as we were told to get as much done in the time alotted. Much more could be finished and added to the program
+PLEASE NOTE: This program is not finished to the standards of the company, as we were told to get as much done in the time alotted. There are some features that are not fully functional. Much more could be finished and added to the program.
